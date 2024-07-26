@@ -1,3 +1,9 @@
+
+[![PyPI](https://img.shields.io/pypi/v/winlog.svg)](https://pypi.org/project/winlog/)
+[![Changelog](https://img.shields.io/github/v/release/sukhbinder/winlog?include_prereleases&label=changelog)](https://github.com/sukhbinder/winlog/releases)
+[![Tests](https://github.com/sukhbinder/winlog/workflows/Test/badge.svg)](https://github.com/sukhbinder/winlog/actions?query=workflow%3ATest)
+[![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](https://github.com/sukhbinder/winlog/blob/main/LICENSE)
+
 # WinLog
 
 A simple Python script to log the active Windows title to a desktop log file.
