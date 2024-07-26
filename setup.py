@@ -30,4 +30,9 @@ setuptools.setup(
         'console_scripts': ['winlog = winlog:main']
     },
     python_requires=">=3.8",
+    extras_require={
+        "test": [
+            "pytest",
+        ]
+    },
 )
