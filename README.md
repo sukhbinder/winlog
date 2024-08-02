@@ -6,7 +6,7 @@
 
 # WinLog
 
-A simple Python script to log the active Windows title to a desktop log file.
+A tiny app to log the active Windows title to a desktop log file.
 
 ## Features
 
@@ -17,11 +17,16 @@ A simple Python script to log the active Windows title to a desktop log file.
 ## Installation
 
 1. Clone this repository: `git clone https://github.com/sukhbinder/winlog.git`
-2. Run the script: `python winlog.py` 
+
+ or
+ 
+```bash
+pip install winlog
+```
 
 ## Usage
 
-1. Run the script in the background using `pythonw winlog.py &`
+1. Run the script in the background using `winlog &`
 2. View the log file on your desktop to see the logged titles and dates
 
 ## Contributing
